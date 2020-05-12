@@ -1,0 +1,26 @@
+{
+  "name": "issomemo",
+  "version": "1.0.0",
+  "description": "É isso memo",
+  "main": "issomemo.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "issomemo"
+  ],
+  "author": "João Vitor de Freitas Melo",
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.27.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JVmano/issomemo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JVmano/issomemo/issues"
+  },
+  "homepage": "https://github.com/JVmano/issomemo#readme"
+}
