@@ -1,3 +1,3 @@
-# Rajada
-RAJADA DE KUAT command sound
+# É isso memo
+ISSO MEMO command sound
 
