@@ -1,5 +1,5 @@
 {
-  "name": "@sephrot/issomemo",
+  "name": "issomemo",
   "version": "1.0.0",
   "description": "É isso memo",
   "main": "index.js",
