@@ -1,8 +1,8 @@
 {
-  "name": "issomemo",
+  "name": "@sephrot/issomemo",
   "version": "1.0.0",
   "description": "É isso memo",
-  "main": "issomemo.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/JVmano/issomemo/issues"
   },
-  "homepage": "https://github.com/JVmano/issomemo#readme"
+  "homepage": "https://github.com/JVmano/issomemo#readme",
+  "bin": {
+    "issomemo": "./index.js"
+  }
 }
