@@ -6,11 +6,12 @@ ISSO MEMO command sound
 </div>
 
 > É ISSO MEMO, FAVELADO!
+https://youtu.be/yfvjd_QVH-o
 
 ## Compatibility
 
 - Linux
-- Windows [I guess]
+- Windows
 - Mac
 
 ## Installing
@@ -30,7 +31,7 @@ Run command:
    
 ## See also
 
- - [daledale](https://github.com/anabastos/daledale/)
+ - [daledale](https://github.com/anabastos/daledale/) <3
  - [Oloquinho](https://github.com/oloquinho/oloquinho)
  - [xFiles](https://github.com/BrOrlandi/xfiles/)
  - [Faustão Errou](https://github.com/BrOrlandi/faustao-errou/)
