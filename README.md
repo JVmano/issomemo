@@ -7,7 +7,7 @@ ISSO MEMO command sound
 
 > É ISSO MEMO, FAVELADO!
 
-https://youtu.be/yfvjd_QVH-o
+https://youtu.be/azIgPI2y044
 
 ## Compatibility
 
